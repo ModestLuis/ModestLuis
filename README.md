@@ -2,7 +2,7 @@
 👨‍💻 Desarrollador de aplicaciones multiplataforma <br>
 💼 Desarrollo software a medida, tanto en equipo como de forma independiente <br>
 🚀 Apasionado por la tecnología, la mejora continua y los retos creativos <br>
-🎯 Siempre aprendiendo, creando y compartiendo ideas
+🎯 Siempre aprendiendo, creando y compartiendo ideas <br>
 ⏳ Commit. Push. Café. Repeat.
 
 
